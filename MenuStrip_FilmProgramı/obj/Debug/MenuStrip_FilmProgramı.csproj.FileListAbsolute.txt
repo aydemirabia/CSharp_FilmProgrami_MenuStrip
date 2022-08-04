@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\bin\Debug\MenuStrip_FilmProgramı.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\bin\Debug\MenuStrip_FilmProgramı.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\bin\Debug\MenuStrip_FilmProgramı.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MenuStrip_FilmProgramı\obj\Debug\MenuStrip_FilmProgramı.pdb
